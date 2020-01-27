@@ -18,7 +18,7 @@
     "sass-lint": "1.10.2"
   },
   "devDependencies": {
-    "mocha": "3.4.2",
+    "mocha": "7.0.1",
     "sass-true": "2.2.2",
     "sassdoc": "2.2.2"
   }
